@@ -9,7 +9,7 @@ My name is Ahnaf Bhamakerti Arief
 </p>
 
 You can also check my website portofolio if you want!
-<a href="https://ahnxf.vercel.app/" target="blank">Click here to see my website</a>
+<a href="https://ahnxf.vercel.app/" target="blank_">Click here to see my website</a>
 
 <!--
 **ahnafb/ahnafb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
